@@ -14,7 +14,7 @@ API Gateway on Dockerhub:
 
 https://hub.docker.com/r/cfoskin/nginx-proxy-local/
 
-It will also work with the Aerodoc Node.js monolithic application:
+It will also work with the Aerodoc Node.js monolithic backend application:
 
 https://github.com/cfoskin/Aerodoc-Node.js
 
