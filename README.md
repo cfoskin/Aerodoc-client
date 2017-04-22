@@ -33,3 +33,4 @@ Run using http-server in route folder:
  
        http-server
        
+Application willbe reachable on default port of 8080
