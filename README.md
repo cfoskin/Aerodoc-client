@@ -29,6 +29,8 @@ To run this client with all other  services use Docker Compose with the docker-c
 
 Http-server:
 
+To run on its own using a http server:
+
 First install http-server: 
 
        npm install http-server -g
