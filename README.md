@@ -4,15 +4,15 @@ This is the angular Aerodoc client for the Aerodoc Node.js Microservices project
 
 Other services: 
 
-(https://github.com/cfoskin/lead-service)
+https://github.com/cfoskin/lead-service
 
-(https://github.com/cfoskin/sales-agent-service)
+https://github.com/cfoskin/sales-agent-service
 
-(https://github.com/cfoskin/push-configuration-service)
+https://github.com/cfoskin/push-configuration-service
 
 API Gateway on Dockerhub:
 
-(https://hub.docker.com/r/cfoskin/nginx-proxy-local/)
+https://hub.docker.com/r/cfoskin/nginx-proxy-local/
 
 
 ## Running 
