@@ -23,7 +23,7 @@ https://github.com/cfoskin/Aerodoc-Node.js
 
 Docker Compose:
 
-To run this client with all other  services use Docker Compose with the docker-compose.yaml file.
+To run this client with all other  services use Docker Compose with the docker-compose.yaml file. Note: To seed the system with the sales agents data, run the application from the sales agent service, otherwise see swagger documentation for how to post sales agents to RESTful endpoints.
 
         docker-compose up
 
